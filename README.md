@@ -1,6 +1,5 @@
 # Hi 👋, I'm Nisarg
 
-## 🚀 About Me
 
 ## 🚀 About Me
 
