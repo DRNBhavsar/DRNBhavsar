@@ -2,12 +2,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **AI-powered real-world projects**
-- 🧑‍🤝‍🧑 I’m looking to collaborate on **AI, Full Stack, Cybersecurity, and Civil Engineering Tech projects**
-- 🤝 I’m looking for help with **scaling startups, system design, and advanced AI integration**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, LangChain, TensorFlow, PyTorch, and Cloud Technologies**
-- 💬 Ask me about **Python, React, AI Projects, Full Stack Development, Git/GitHub, and Startup Ideas**
-- ⚡ Fun fact: **I love building tech solutions for real-world civil engineering problems**
+## 🚀 About Me
+
+Passionate developer and tech enthusiast focused on building real-world AI and software solutions. I enjoy working on projects that combine Artificial Intelligence, Full Stack Development, Cybersecurity, and Civil Engineering technology to solve practical industry problems.
+
+Currently exploring Machine Learning, Deep Learning, LangChain, TensorFlow, and scalable backend systems while developing innovative project ideas and startup solutions. I’m highly interested in creating intelligent systems that improve automation, security, productivity, and engineering workflows.
+
+I enjoy learning new technologies, collaborating on impactful projects, and turning ideas into scalable products.
 
 ---
 
