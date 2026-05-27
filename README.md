@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-Passionate developer and tech enthusiast focused on building real-world AI and software solutions. I enjoy working on projects that combine Artificial Intelligence, Full Stack Development, Cybersecurity, and Civil Engineering technology to solve practical industry problems.
+I am a passionate and driven developer with a strong interest in Artificial Intelligence, Full Stack Development, Cybersecurity, and innovative technology solutions for real-world problems. I enjoy building scalable applications and intelligent systems that combine modern software technologies with practical industry use cases.
 
-Currently exploring Machine Learning, Deep Learning, LangChain, TensorFlow, and scalable backend systems while developing innovative project ideas and startup solutions. I’m highly interested in creating intelligent systems that improve automation, security, productivity, and engineering workflows.
+Currently, I am focused on expanding my expertise in Machine Learning, Deep Learning, Cloud Technologies, and AI-powered applications while working on impactful projects in cybersecurity and civil engineering technology. My goal is to create smart, efficient, and scalable digital solutions that improve productivity, automation, and decision-making.
 
-I enjoy learning new technologies, collaborating on impactful projects, and turning ideas into scalable products.
+I am continuously learning, exploring new technologies, and collaborating on projects that challenge me to grow as a developer and problem solver.
 
 ---
 
